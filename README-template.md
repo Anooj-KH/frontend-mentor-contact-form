@@ -47,8 +47,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Anooj-KH/frontend-mentor-contact-form)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-contact-form-beryl.vercel.app/)
+- Solution (https://github.com/Anooj-KH/frontend-mentor-contact-form)
+- Live Site (https://frontend-mentor-contact-form-beryl.vercel.app/)
 
 ## My process
 
