@@ -1,0 +1,56 @@
+body {
+    background-color: #eaf6e9;
+}
+
+.form-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-submit {
+    background-color: #007a5e;
+    color: #fff;
+}
+
+.btn-submit:hover {
+    background-color: #005f47;
+}
+
+.form-check {
+    border: 1px solid rgb(222, 222, 222);
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.form-check:hover {
+    border-color: #28a745;
+}
+
+input:hover,
+textarea:hover,
+.form-check-input:hover {
+    border-color: #28a745;
+}
+
+input,
+textarea,
+.form-check-input {
+    transition: border-color 0.3s ease;
+}
+
+#noborder {
+    border: 0px;
+    width: 100%;
+    margin-left: 15px;
+}
+
+.error {
+    color: red;
+    font-size: 0.875rem;
+    display: none;
+}
